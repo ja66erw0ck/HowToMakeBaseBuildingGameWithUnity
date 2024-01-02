@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sprites>
+	<Sprite Name="Effect0_12">
+		<Rect X="0" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_15">
+		<Rect X="48" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_30">
+		<Rect X="0" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_33">
+		<Rect X="48" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_48">
+		<Rect X="0" Y="272" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_51">
+		<Rect X="48" Y="272" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_60">
+		<Rect X="0" Y="224" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_68">
+		<Rect X="0" Y="176" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_71">
+		<Rect X="0" Y="160" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_72">
+		<Rect X="16" Y="160" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_73">
+		<Rect X="32" Y="160" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_74">
+		<Rect X="48" Y="160" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_75">
+		<Rect X="64" Y="160" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_76">
+		<Rect X="80" Y="160" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_77">
+		<Rect X="96" Y="160" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_78">
+		<Rect X="112" Y="160" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_79">
+		<Rect X="0" Y="144" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_80">
+		<Rect X="16" Y="144" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_81">
+		<Rect X="32" Y="144" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_82">
+		<Rect X="48" Y="144" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_83">
+		<Rect X="64" Y="144" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_84">
+		<Rect X="80" Y="144" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_85">
+		<Rect X="96" Y="144" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_86">
+		<Rect X="112" Y="144" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_87">
+		<Rect X="0" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_88">
+		<Rect X="16" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_89">
+		<Rect X="32" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_90">
+		<Rect X="48" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_91">
+		<Rect X="64" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_92">
+		<Rect X="80" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_93">
+		<Rect X="96" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_94">
+		<Rect X="112" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_95">
+		<Rect X="0" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_96">
+		<Rect X="16" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_97">
+		<Rect X="32" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_98">
+		<Rect X="48" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_99">
+		<Rect X="64" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_100">
+		<Rect X="80" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_101">
+		<Rect X="96" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_102">
+		<Rect X="112" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_103">
+		<Rect X="0" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_104">
+		<Rect X="16" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_105">
+		<Rect X="32" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_106">
+		<Rect X="48" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_107">
+		<Rect X="64" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_108">
+		<Rect X="80" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_109">
+		<Rect X="96" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_110">
+		<Rect X="112" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_111">
+		<Rect X="0" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_112">
+		<Rect X="16" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_113">
+		<Rect X="32" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_114">
+		<Rect X="48" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_115">
+		<Rect X="64" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_116">
+		<Rect X="80" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_117">
+		<Rect X="96" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_118">
+		<Rect X="112" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_119">
+		<Rect X="0" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_120">
+		<Rect X="16" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_121">
+		<Rect X="32" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_122">
+		<Rect X="48" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_123">
+		<Rect X="64" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_124">
+		<Rect X="80" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_125">
+		<Rect X="96" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_126">
+		<Rect X="112" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_127">
+		<Rect X="0" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_128">
+		<Rect X="16" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_129">
+		<Rect X="32" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_130">
+		<Rect X="48" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_131">
+		<Rect X="64" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_132">
+		<Rect X="80" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_133">
+		<Rect X="96" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_134">
+		<Rect X="112" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_135">
+		<Rect X="0" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_136">
+		<Rect X="16" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_137">
+		<Rect X="32" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_138">
+		<Rect X="48" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_139">
+		<Rect X="64" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_140">
+		<Rect X="80" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_141">
+		<Rect X="96" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_142">
+		<Rect X="112" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_143">
+		<Rect X="0" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_144">
+		<Rect X="16" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_145">
+		<Rect X="32" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_146">
+		<Rect X="48" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_147">
+		<Rect X="64" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_148">
+		<Rect X="80" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_149">
+		<Rect X="96" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_150">
+		<Rect X="112" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_151">
+		<Rect X="0" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_0">
+		<Rect X="0" Y="400" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_1">
+		<Rect X="16" Y="400" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_2">
+		<Rect X="32" Y="400" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_3">
+		<Rect X="48" Y="400" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_4">
+		<Rect X="64" Y="400" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_5">
+		<Rect X="80" Y="400" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_6">
+		<Rect X="0" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_7">
+		<Rect X="16" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_8">
+		<Rect X="32" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_9">
+		<Rect X="48" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_10">
+		<Rect X="64" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_11">
+		<Rect X="80" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_13">
+		<Rect X="16" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_14">
+		<Rect X="32" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_16">
+		<Rect X="64" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_17">
+		<Rect X="80" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_18">
+		<Rect X="0" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_19">
+		<Rect X="16" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_20">
+		<Rect X="32" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_21">
+		<Rect X="48" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_22">
+		<Rect X="64" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_23">
+		<Rect X="80" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_24">
+		<Rect X="0" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_25">
+		<Rect X="16" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_26">
+		<Rect X="32" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_27">
+		<Rect X="48" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_28">
+		<Rect X="64" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_29">
+		<Rect X="80" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_31">
+		<Rect X="16" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_32">
+		<Rect X="32" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_34">
+		<Rect X="64" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_35">
+		<Rect X="80" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_36">
+		<Rect X="0" Y="304" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_37">
+		<Rect X="16" Y="304" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_38">
+		<Rect X="32" Y="304" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_39">
+		<Rect X="48" Y="304" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_40">
+		<Rect X="64" Y="304" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_41">
+		<Rect X="80" Y="304" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_42">
+		<Rect X="0" Y="288" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_43">
+		<Rect X="16" Y="288" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_44">
+		<Rect X="32" Y="288" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_45">
+		<Rect X="48" Y="288" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_46">
+		<Rect X="64" Y="288" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_47">
+		<Rect X="80" Y="288" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_49">
+		<Rect X="16" Y="272" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_50">
+		<Rect X="32" Y="272" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_52">
+		<Rect X="64" Y="272" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_53">
+		<Rect X="80" Y="272" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_54">
+		<Rect X="0" Y="256" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_55">
+		<Rect X="16" Y="256" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_56">
+		<Rect X="32" Y="256" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_57">
+		<Rect X="0" Y="240" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_58">
+		<Rect X="16" Y="240" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_59">
+		<Rect X="32" Y="240" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_61">
+		<Rect X="16" Y="224" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_62">
+		<Rect X="32" Y="224" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_63">
+		<Rect X="0" Y="208" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_64">
+		<Rect X="16" Y="208" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_65">
+		<Rect X="32" Y="208" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_66">
+		<Rect X="0" Y="192" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_67">
+		<Rect X="32" Y="192" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_69">
+		<Rect X="16" Y="176" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Effect0_70">
+		<Rect X="32" Y="176" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+</Sprites>

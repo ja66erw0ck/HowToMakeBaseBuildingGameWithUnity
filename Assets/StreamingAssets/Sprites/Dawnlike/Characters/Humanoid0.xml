@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sprites>
+	<Sprite Name="Humanoid0_0">
+		<Rect X="0" Y="416" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_1">
+		<Rect X="16" Y="416" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_2">
+		<Rect X="32" Y="416" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_3">
+		<Rect X="48" Y="416" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_4">
+		<Rect X="64" Y="416" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_5">
+		<Rect X="80" Y="416" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_6">
+		<Rect X="96" Y="416" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_7">
+		<Rect X="112" Y="416" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_8">
+		<Rect X="0" Y="400" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_9">
+		<Rect X="16" Y="400" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_10">
+		<Rect X="32" Y="400" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_11">
+		<Rect X="0" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_12">
+		<Rect X="16" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_13">
+		<Rect X="32" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_14">
+		<Rect X="48" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_15">
+		<Rect X="64" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_16">
+		<Rect X="80" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_17">
+		<Rect X="96" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_18">
+		<Rect X="112" Y="384" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_19">
+		<Rect X="0" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_20">
+		<Rect X="16" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_21">
+		<Rect X="32" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_22">
+		<Rect X="48" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_23">
+		<Rect X="64" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_24">
+		<Rect X="80" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_25">
+		<Rect X="96" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_26">
+		<Rect X="112" Y="368" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_27">
+		<Rect X="0" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_28">
+		<Rect X="16" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_29">
+		<Rect X="32" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_30">
+		<Rect X="48" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_31">
+		<Rect X="64" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_32">
+		<Rect X="80" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_33">
+		<Rect X="96" Y="352" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_34">
+		<Rect X="0" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_35">
+		<Rect X="16" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_36">
+		<Rect X="32" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_37">
+		<Rect X="48" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_38">
+		<Rect X="64" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_39">
+		<Rect X="80" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_40">
+		<Rect X="96" Y="336" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_41">
+		<Rect X="0" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_42">
+		<Rect X="16" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_43">
+		<Rect X="32" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_44">
+		<Rect X="48" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_45">
+		<Rect X="64" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_46">
+		<Rect X="80" Y="320" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_47">
+		<Rect X="0" Y="304" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_48">
+		<Rect X="16" Y="304" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_49">
+		<Rect X="32" Y="304" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_50">
+		<Rect X="48" Y="304" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_51">
+		<Rect X="64" Y="304" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_52">
+		<Rect X="0" Y="288" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_53">
+		<Rect X="16" Y="288" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_54">
+		<Rect X="32" Y="288" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_55">
+		<Rect X="48" Y="288" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_56">
+		<Rect X="64" Y="288" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_57">
+		<Rect X="0" Y="272" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_58">
+		<Rect X="16" Y="272" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_59">
+		<Rect X="32" Y="272" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_60">
+		<Rect X="48" Y="272" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_61">
+		<Rect X="64" Y="272" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_62">
+		<Rect X="0" Y="256" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_63">
+		<Rect X="16" Y="256" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_64">
+		<Rect X="32" Y="256" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_65">
+		<Rect X="48" Y="256" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_66">
+		<Rect X="0" Y="240" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_67">
+		<Rect X="16" Y="240" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_68">
+		<Rect X="32" Y="240" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_69">
+		<Rect X="48" Y="240" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_70">
+		<Rect X="0" Y="224" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_71">
+		<Rect X="16" Y="224" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_72">
+		<Rect X="32" Y="224" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_73">
+		<Rect X="48" Y="224" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_74">
+		<Rect X="0" Y="208" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_75">
+		<Rect X="16" Y="208" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_76">
+		<Rect X="32" Y="208" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_77">
+		<Rect X="48" Y="208" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_78">
+		<Rect X="0" Y="192" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_79">
+		<Rect X="16" Y="192" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_80">
+		<Rect X="32" Y="192" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_81">
+		<Rect X="0" Y="176" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_82">
+		<Rect X="16" Y="176" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_83">
+		<Rect X="32" Y="176" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_84">
+		<Rect X="0" Y="160" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_85">
+		<Rect X="16" Y="160" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_86">
+		<Rect X="32" Y="160" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_87">
+		<Rect X="0" Y="144" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_88">
+		<Rect X="16" Y="144" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_89">
+		<Rect X="32" Y="144" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_90">
+		<Rect X="0" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_91">
+		<Rect X="16" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_92">
+		<Rect X="32" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_93">
+		<Rect X="0" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_94">
+		<Rect X="16" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_95">
+		<Rect X="32" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_96">
+		<Rect X="0" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_97">
+		<Rect X="16" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_98">
+		<Rect X="0" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_99">
+		<Rect X="16" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_100">
+		<Rect X="0" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_101">
+		<Rect X="16" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_102">
+		<Rect X="0" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_103">
+		<Rect X="16" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_104">
+		<Rect X="0" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_105">
+		<Rect X="16" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_106">
+		<Rect X="0" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_107">
+		<Rect X="16" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Humanoid0_108">
+		<Rect X="0" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+</Sprites>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sprites>
+	<Sprite Name="Flesh_0">
+		<Rect X="0" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_1">
+		<Rect X="16" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_2">
+		<Rect X="32" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_3">
+		<Rect X="48" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_4">
+		<Rect X="64" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_5">
+		<Rect X="80" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_6">
+		<Rect X="96" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_7">
+		<Rect X="112" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_8">
+		<Rect X="0" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_9">
+		<Rect X="16" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_10">
+		<Rect X="32" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_11">
+		<Rect X="48" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_12">
+		<Rect X="64" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_13">
+		<Rect X="80" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_14">
+		<Rect X="96" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_15">
+		<Rect X="112" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_16">
+		<Rect X="0" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_17">
+		<Rect X="16" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_18">
+		<Rect X="32" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_19">
+		<Rect X="48" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_20">
+		<Rect X="64" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_21">
+		<Rect X="80" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_22">
+		<Rect X="96" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_23">
+		<Rect X="112" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_24">
+		<Rect X="0" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_25">
+		<Rect X="16" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_26">
+		<Rect X="32" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_27">
+		<Rect X="0" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_28">
+		<Rect X="16" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_29">
+		<Rect X="32" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_30">
+		<Rect X="48" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_31">
+		<Rect X="64" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_32">
+		<Rect X="80" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_33">
+		<Rect X="96" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_34">
+		<Rect X="112" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_35">
+		<Rect X="0" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_36">
+		<Rect X="16" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_37">
+		<Rect X="32" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_38">
+		<Rect X="48" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_39">
+		<Rect X="64" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_40">
+		<Rect X="80" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_41">
+		<Rect X="96" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_42">
+		<Rect X="112" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_43">
+		<Rect X="0" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_44">
+		<Rect X="16" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_45">
+		<Rect X="32" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_46">
+		<Rect X="48" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_47">
+		<Rect X="64" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_48">
+		<Rect X="80" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_49">
+		<Rect X="96" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_50">
+		<Rect X="112" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_51">
+		<Rect X="0" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_52">
+		<Rect X="16" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_53">
+		<Rect X="32" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_54">
+		<Rect X="0" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_55">
+		<Rect X="16" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_56">
+		<Rect X="32" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_57">
+		<Rect X="48" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_58">
+		<Rect X="64" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_59">
+		<Rect X="80" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_60">
+		<Rect X="96" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Flesh_61">
+		<Rect X="112" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+</Sprites>

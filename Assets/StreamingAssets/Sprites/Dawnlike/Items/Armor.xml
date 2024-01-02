@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sprites>
+	<Sprite Name="Armor_0">
+		<Rect X="0" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_1">
+		<Rect X="16" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_2">
+		<Rect X="32" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_3">
+		<Rect X="48" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_4">
+		<Rect X="64" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_5">
+		<Rect X="80" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_6">
+		<Rect X="96" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_7">
+		<Rect X="112" Y="128" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_8">
+		<Rect X="0" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_9">
+		<Rect X="16" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_10">
+		<Rect X="32" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_11">
+		<Rect X="48" Y="112" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_12">
+		<Rect X="0" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_13">
+		<Rect X="16" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_14">
+		<Rect X="32" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_15">
+		<Rect X="48" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_16">
+		<Rect X="64" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_17">
+		<Rect X="80" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_18">
+		<Rect X="96" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_19">
+		<Rect X="112" Y="96" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_20">
+		<Rect X="0" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_21">
+		<Rect X="16" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_22">
+		<Rect X="32" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_23">
+		<Rect X="48" Y="80" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_24">
+		<Rect X="0" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_25">
+		<Rect X="16" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_26">
+		<Rect X="32" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_27">
+		<Rect X="48" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_28">
+		<Rect X="64" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_29">
+		<Rect X="80" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_30">
+		<Rect X="96" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_31">
+		<Rect X="112" Y="64" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_32">
+		<Rect X="0" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_33">
+		<Rect X="16" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_34">
+		<Rect X="32" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_35">
+		<Rect X="48" Y="48" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_36">
+		<Rect X="0" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_37">
+		<Rect X="16" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_38">
+		<Rect X="32" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_39">
+		<Rect X="48" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_40">
+		<Rect X="64" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_41">
+		<Rect X="80" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_42">
+		<Rect X="96" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_43">
+		<Rect X="112" Y="32" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_44">
+		<Rect X="0" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_45">
+		<Rect X="16" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_46">
+		<Rect X="32" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_47">
+		<Rect X="48" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_48">
+		<Rect X="64" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_49">
+		<Rect X="80" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_50">
+		<Rect X="96" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_51">
+		<Rect X="112" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_52">
+		<Rect X="0" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_53">
+		<Rect X="16" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_54">
+		<Rect X="32" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_55">
+		<Rect X="48" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_56">
+		<Rect X="64" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_57">
+		<Rect X="80" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Armor_58">
+		<Rect X="96" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+</Sprites>

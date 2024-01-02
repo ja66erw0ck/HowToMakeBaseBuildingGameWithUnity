@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sprites>
+	<Sprite Name="Warrior Clothes Back_0">
+		<Rect X="0" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Warrior Clothes Back_1">
+		<Rect X="16" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Warrior Clothes Back_2">
+		<Rect X="32" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Warrior Clothes Back_3">
+		<Rect X="48" Y="16" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Warrior Clothes Back_4">
+		<Rect X="0" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Warrior Clothes Back_5">
+		<Rect X="16" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+	<Sprite Name="Warrior Clothes Back_6">
+		<Rect X="32" Y="0" Width="16" Height="16"/>
+		<Pivot X="0.5" Y="0.5"/>
+		<Unit Pixels="16"/>
+	</Sprite>
+</Sprites>

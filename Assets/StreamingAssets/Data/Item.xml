@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+    <!-- Brick -->
+    <Item Type="Brick">
+        <Name>Brick</Name>
+        <Sprite>Wall_32</Sprite>
+    </Item>
+</Items>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Structures>
+    <!-- Wall -->
+    <Structure Type="BrickWall">
+        <Name>Basic Wall</Name>
+        <MovementCost>0</MovementCost>
+        <Width>1</Width>
+        <Height>1</Height>
+        <IsLinkToNeighbour>true</IsLinkToNeighbour>
+        <IsRoomEnclosure>true</IsRoomEnclosure>
+        
+        <BuildingJob JobTime="1">
+            <Item Type="Brick" Amount="5" />
+        </BuildingJob>
+       
+        <DeconstructJob JobTime="1">
+            <Item Type="Brick" Amount="3" />
+        </DeconstructJob>
+        
+        <Sprites>
+            <Sprite Key="ES" Name="Wall_29" />
+            <Sprite Key="WE" Name="Wall_30" />
+            <Sprite Key="WS" Name="Wall_31" />
+            <Sprite Key="" Name="Wall_32" />
+            <Sprite Key="WES" Name="Wall_33" />
+            <Sprite Key="NS" Name="Wall_44" />
+            <Sprite Key="N" Name="Wall_45" />
+            <Sprite Key="ENS" Name="Wall_46" />
+            <Sprite Key="WENS" Name="Wall_47" />
+            <Sprite Key="WNS" Name="Wall_48" />
+            <Sprite Key="EN" Name="Wall_59" />
+            <Sprite Key="WN" Name="Wall_60" />
+            <Sprite Key="WEN" Name="Wall_61" />
+            <Sprite Key="W" Name="Wall_30" />
+            <Sprite Key="E" Name="Wall_30" />
+            <Sprite Key="S" Name="Wall_44" />
+        </Sprites>
+        
+        <Sounds>
+        </Sounds>
+    </Structure>
+
+    <!-- Door -->
+    <Structure Type="Door">
+        <Name>Wooden Door</Name>
+        <MovementCost>1</MovementCost>
+        <Width>1</Width>
+        <Height>1</Height>
+        <IsRoomEnclosure>true</IsRoomEnclosure>
+        <CanReplaceStructure ObjectName="Basic Wall" />
+        
+        <Parameters>
+            <Parameter Name="Openness" Value="0" />
+            <Parameter Name="IsOpening" Value="0" />
+        </Parameters>
+        
+        <BuildingJob JobTime="1">
+            <Item Type="Brick" Amount="5" />
+        </BuildingJob>
+       
+        <DeconstructJob JobTime="1">
+            <Item Type="Brick" Amount="3" />
+        </DeconstructJob>
+        
+        <IsEnterable Function="IsEnterableDoor" />
+        <OnUpdate Function="OnUpdateDoor" />
+        
+        <Sprites>
+            <Sprite Key="" Name="Door0_0" />
+            <Sprite Key="_OPEN" Name="Door1_0" />
+            <Sprite Key="NS" Name="Door0_1" />
+            <Sprite Key="NS_OPEN" Name="Door1_1" />
+            <Sprite Key="WE" Name="Door0_0" />
+            <Sprite Key="WE_OPEN" Name="Door1_0" />
+        </Sprites>
+    </Structure>
+
+    <!-- Stockpile -->
+    <Structure Type="Stockpile">
+        <Name>Stockpile</Name>
+        <IsLinkToNeighbour>true</IsLinkToNeighbour>
+        <Tint>186, 31, 31, 255</Tint>
+
+        <OnUpdate Function="OnUpdateStockpile" />
+        
+        <Sprites>
+            <Sprite Key="ES" Name="Stockpile_0" />
+            <Sprite Key="WES" Name="Stockpile_1" />
+            <Sprite Key="WS" Name="Stockpile_2" />
+            <Sprite Key="S" Name="Stockpile_3" />
+            <Sprite Key="" Name="Stockpile_4" />
+            <Sprite Key="ENS" Name="Stockpile_5" />
+            <Sprite Key="WENS" Name="Stockpile_6" />
+            <Sprite Key="WNS" Name="Stockpile_7" />
+            <Sprite Key="NS" Name="Stockpile_8" />
+            <Sprite Key="E" Name="Stockpile_9" />
+            <Sprite Key="WE" Name="Stockpile_10" />
+            <Sprite Key="W" Name="Stockpile_11" />
+            <Sprite Key="EN" Name="Stockpile_12" />
+            <Sprite Key="WEN" Name="Stockpile_13" />
+            <Sprite Key="WN" Name="Stockpile_14" />
+            <Sprite Key="N" Name="Stockpile_15" />
+        </Sprites>
+    </Structure>
+
+    <!-- Fireplace -->
+    <Structure Type="Fireplace">
+       <Name>Fire Place</Name>
+       <MovementCost>10</MovementCost>
+       <Width>2</Width>
+       <Height>2</Height>
+
+       <Parameters>
+           <Parameter Name="AnimationSpeed" Value="1" />
+           <Parameter Name="HitLimit" Value="0.2" />
+           <Parameter Name="HitPerSecond" Value="0.01" />
+           <Parameter Name="AttributeName" Value="Temperature" />
+       </Parameters>
+
+       <OnUpdate Function="OnUpdateHit" />
+    </Structure>
+
+    <!-- Brick Maker -->
+    <Structure Type="BrickMaker">
+       <Name>Brick Maker</Name>
+       <MovementCost>1</MovementCost>
+       <Width>3</Width>
+       <Height>3</Height>
+
+       <JobSpotOffset X="1" Y="0" />
+       <JobSpawnSpotOffset X="0" Y="0" />
+
+       <OnUpdate Function="OnUpdateBrickMaker" />
+    </Structure>
+</Structures>
